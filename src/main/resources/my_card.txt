@@ -1,12 +1,13 @@
 BASIC
 Croagunk
 70
-FIG
+FIGHTING
 -
-10/Poison Sting/FIG
-P
+H/Poison Sting/10
+PSYCHIC
 -
 1
-Scarlet & Violet—Paldea Evolved
+Scarlet & Violet—Paldea Evolved3
 G
 Ovsyannikov/Vladimir/Ivanovich/BSBO-04-23
+114

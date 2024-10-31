@@ -1,4 +1,4 @@
-package ru.mirea.ovsyannikovvi.pkmn;
+package ru.mirea.pkmn;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

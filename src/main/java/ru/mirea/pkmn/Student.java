@@ -1,8 +1,9 @@
-package ru.mirea.ovsyannikovvi.pkmn;
+package ru.mirea.pkmn;
 
 import java.io.Serializable;
 
 public class Student implements Serializable {
+    public static final long serialVersionUID = 1L;
     private String firstName;
     private String surName;
     private String fatherName;
